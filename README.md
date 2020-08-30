@@ -1,4 +1,4 @@
 # Digital-clock
 
-* Idea is taken from YouTube channel "The Coding Train"
+* Didital clock is based on seven-segment-display
 * Written in Processing environment.
